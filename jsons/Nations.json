@@ -20,7 +20,7 @@
 		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
 
 		"hateHello": ["Our patience with you grows thin.","What do you want now?"],
-		"hateLetsHearIt" : ["What are you trying to say?"], 
+		"hateLetsHearIt" : ["What are you trying to say?"],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
 		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
 		

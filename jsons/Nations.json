@@ -1,4 +1,5 @@
 [
+	
 	{
 		"name": "CIV+3",
 		"leaderName": "Monakho",
@@ -19,11 +20,11 @@
 		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
 
 		"hateHello": ["Our patience with you grows thin.","What do you want now?"],
-		"hateLetsHearIt" : "What are you trying to say?",
+		"hateLetsHearIt" : ["What are you trying to say?"], 
 		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
 		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
 		
-		"afterPeace": "Very well. We shall end this war.",
+		"afterPeace": ["Very well. We shall end this war."],
 		"tradeRequest": ["Consider this offer. It could serve us well.","I have a proposal that may benefit us both."],
 
 		"outerColor": [16,16,16],
@@ -46,10 +47,10 @@
 			"[10] Unit Supply",
 			"[+30]% Strength",
 			"[+30]% XP gained from combat"
-			
 		],
+		
 		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
-		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	}
 	
 ]

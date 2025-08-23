@@ -3,8 +3,7 @@
 		"name": "CIV+3",
 		"leaderName": "Monakho",
 		"adjective": ["The Prosperous"],
-		"startBias": ,
-		"preferredVictoryType": ,
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
 		"startIntroPart2": "Now… the age of civilization begins",
@@ -29,6 +28,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
+		"uniqueName": "Third Buff",
 		"uniques": [
 			"[+2 Gold, +2 Production] [in capital]",
 			"[+30]% [Production] [in all cities]",
@@ -51,4 +51,5 @@
 		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
 	}
+	
 ]

@@ -3,8 +3,7 @@
 	{
 		"name": "CIV+3",
 		"leaderName": "Monakho",
-		"adjective": ["The Prosperous"],
-		"startBias" : ["Coast"],
+		"adjective": ["The Wretched"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
@@ -33,25 +32,129 @@
 		"uniqueName": "Third Buff",
 		"uniques": [
 			"[+2 Gold, +2 Production] [in capital]",
-			"[+30]% [Production] [in all cities]",
-			"[+15]% [Culture]",
-			"[+30]% [Gold]",
-			"[+15]% [Science]",
-			"[+15]% [Happiness]",
-			"[+30]% [Faith]",
-			"[+15]% [Food]",
+			"[+15]% [Production] [in all cities]",
+			"[+7.5]% [Culture]",
+			"[+15]% [Gold]",
+			"[+7.5]% [Science]",
+			"[+7.5]% [Happiness]",
+			"[+15]% [Faith]",
+			"[+7.5]% [Food]",
 			"[+2 Gold] from each Trade Route",
-			"[-30]% unhappiness from the number of cities",
+			"[-15]% unhappiness from the number of cities",
 			"[4] Happiness from each type of luxury resource",
-			"[-75]% maintenance on road & railroads",
-			"[-45]% construction time for [All] improvements",
-			"[10] Unit Supply",
-			"[+30]% Strength",
-			"[+30]% XP gained from combat"
+			"[-33]% maintenance on road & railroads",
+			"[-30]% construction time for [All] improvements",
+			"[8] Unit Supply",
+			"[+15]% Strength",
+			"[+15]% XP gained from combat"
 		],
 		
 		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	}
-	
+
+	{
+		"name": "CIV+2",
+		"leaderName": "Daiamond",
+		"adjective": ["The Unskilled"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
+		"startIntroPart2": "Now… the age of civilization begins",
+		
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
+		
+		"neutralHello": "It is good to see you again.",
+		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt" : ["What are you trying to say?"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
+		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
+		
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Second Buff",
+		"uniques": [
+			"[+1 Gold, +1 Production] [in capital]",
+			"[+10]% [Production] [in all cities]",
+			"[+5]% [Culture]",
+			"[+10]% [Gold]",
+			"[+5]% [Science]",
+			"[+5]% [Happiness]",
+			"[+10]% [Faith]",
+			"[+5]% [Food]",
+			"[+1 Gold] from each Trade Route",
+			"[-10]% unhappiness from the number of cities",
+			"[3] Happiness from each type of luxury resource",
+			"[-20]% maintenance on road & railroads",
+			"[-20]% construction time for [All] improvements",
+			"[7] Unit Supply",
+			"[+10]% Strength",
+			"[+10]% XP gained from combat"
+		],
+		
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	}
+
+	{
+		"name": "CIV-4",
+		"leaderName": "Heoheoheoking",
+		"adjective": ["The King"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "자 그럼 지금부터",
+		"startIntroPart2": "언십십님을 할거에요~~",
+		
+		"declaringWar": "얘! 죽으렴~",
+		"attacked": "얘! 장난하니~",
+		"defeated": "아이고난!!!!!!",
+		"introduction": "반갑수달",
+		
+		"neutralHello": "반갑소이닿",
+		"neutralLetsHearIt": "그림 그릴게요~",
+		"neutralNo": "얘는! 되겠니!!",
+		"neutralYes": "오옹~ 좋다좋다",
+
+		"hateHello": "쓰읍 반갑소이닿",
+		"hateLetsHearIt": "얘, 작작하렴~",
+		"hateNo": "죽어버리렴~",
+		"hateYes": "고려해보지",
+		
+		"afterPeace": "홍홍 좋소이닿",
+		"tradeRequest": "얘 그림그리렴!!",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Fourth Nerf",
+		"uniques": [
+			"[-20]% growth [in all cities]",
+			"[All] cost of purchasing items in cities [+40]%",
+			"[-20]% [Production] [in all cities]",
+			"[-10]% [Culture]",
+			"[-20]% [Gold]",
+			"[-10]% [Science]",
+			"[-10]% [Happiness]",
+			"[-20]% [Faith]",
+			"[-10]% [Food]",
+			"[+20]% unhappiness from the number of cities",
+			"[+40]% maintenance on road & railroads",
+			"[+20]% construction time for [All] improvements",
+			"[3] Unit Supply",
+			"[-20]% Strength",
+			"[-20]% XP gained from combat"
+		],
+		
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	}
 ]

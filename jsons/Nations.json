@@ -4,28 +4,29 @@
 		"name": "CIV+3",
 		"leaderName": "Monakho",
 		"adjective": ["The Prosperous"],
+		"startBias" : ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
 		"startIntroPart2": "Now… the age of civilization begins",
 		
-		"declaringWar": ["We can no longer tolerate you. Prepare for war.","We can no longer tolerate you. Prepare for war!"],
-		"attacked": ["So be it. You will regret this decision!","If it is war you want, then war you shall have."],
-		"defeated": ["So… this is the end of our people. May history remember us.","Our time is over. The world will move on without us."],
-		"introduction": ["Greetings. We are pleased to make your acquaintance.","You stand before our nation. May our meeting be fruitful."],
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
 		
-		"neutralHello": ["Welcome. What brings you to our halls today?","It is good to see you again."],
+		"neutralHello": "It is good to see you again.",
 		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
 
-		"hateHello": ["Our patience with you grows thin.","What do you want now?"],
+		"hateHello": "What do you want now?",
 		"hateLetsHearIt" : ["What are you trying to say?"],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
 		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
 		
-		"afterPeace": ["Very well. We shall end this war."],
-		"tradeRequest": ["Consider this offer. It could serve us well.","I have a proposal that may benefit us both."],
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],

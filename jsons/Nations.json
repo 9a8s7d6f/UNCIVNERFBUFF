@@ -44,7 +44,7 @@
 			"[-30]% unhappiness from the number of cities",
 			"[4] Happiness from each type of luxury resource",
 			"[-75]% maintenance on road & railroads",
-			"[+45]% construction time for [All] improvements",
+			"[-45]% construction time for [All] improvements",
 			"[10] Unit Supply",
 			"[+30]% Strength",
 			"[+30]% XP gained from combat"

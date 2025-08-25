@@ -4,7 +4,7 @@
 		"name": "CIV+3",
 		"leaderName": "Monakho",
 		"adjective": ["The Wretched"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Neutral",
 		
 		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
 		"startIntroPart2": "Now… the age of civilization begins",
@@ -57,7 +57,7 @@
 		"name": "CIV+2",
 		"leaderName": "Daiamond",
 		"adjective": ["The Unskilled"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Neutral",
 		
 		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
 		"startIntroPart2": "Now… the age of civilization begins",
@@ -110,13 +110,13 @@
 		"name": "CIV-4",
 		"leaderName": "Heoheoheoking",
 		"adjective": ["The King"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Neutral",
 		
 		"startIntroPart1": "자 그럼 지금부터",
 		"startIntroPart2": "언십십님을 할거에요~~",
 		
 		"declaringWar": "얘! 죽으렴~",
-		"attacked": "얘! 장난하니~",
+		"attacked": "얘는!! 장난하니!!",
 		"defeated": "아이고난!!!!!!",
 		"introduction": "반갑수달",
 		

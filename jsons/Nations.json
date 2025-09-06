@@ -1,4 +1,108 @@
 [
+	{
+		"name": "CIV+5",
+		"leaderName": "Eumyugi",
+		"adjective": ["The New"],
+		"preferredVictoryType": "Neutral",
+		
+		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
+		"startIntroPart2": "Now… the age of civilization begins",
+		
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
+		
+		"neutralHello": "It is good to see you again.",
+		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt" : ["What are you trying to say?"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
+		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
+		
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Fifth Buff",
+		"uniques": [
+			"[+25]% growth [in all cities]",
+			"[Gold] cost of purchasing items in cities [-50]%",
+			"[+25]% [Production] [in all cities]",
+			"[+15]% [Culture]",
+			"[+25]% [Gold]",
+			"[+15]% [Science]",
+			"[+15]% [Happiness]",
+			"[+25]% [Faith]",
+			"[+15]% [Food]",
+			"[-25]% unhappiness from the number of cities",
+			"[-50]% maintenance on road & railroads",
+			"[-25]% construction time for [All] improvements",
+			"[15] Unit Supply",
+			"[+25]% Strength",
+			"[+25]% XP gained from combat"
+		],
+		
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	}
+
+	{
+		"name": "CIV+4",
+		"leaderName": "Mo Bydick",
+		"adjective": ["The Shark"],
+		"preferredVictoryType": "Neutral",
+		
+		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
+		"startIntroPart2": "Now… the age of civilization begins",
+		
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
+		
+		"neutralHello": "It is good to see you again.",
+		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt" : ["What are you trying to say?"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
+		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
+		
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		
+		"uniqueName": "Fourth Buff",
+		"uniques": [
+			"[+20]% growth [in all cities]",
+			"[Gold] cost of purchasing items in cities [-40]%",
+			"[+20]% [Production] [in all cities]",
+			"[+12]% [Culture]",
+			"[+20]% [Gold]",
+			"[+12]% [Science]",
+			"[+12]% [Happiness]",
+			"[+20]% [Faith]",
+			"[+12]% [Food]",
+			"[-20]% unhappiness from the number of cities",
+			"[-40]% maintenance on road & railroads",
+			"[-20]% construction time for [All] improvements",
+			"[10] Unit Supply",
+			"[+20]% Strength",
+			"[+20]% XP gained from combat"
+		],
+		
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	}
 	
 	{
 		"name": "CIV+3",
@@ -107,6 +211,215 @@
 	}
 
 	{
+		"name": "CIV+1",
+		"leaderName": "N2alje",
+		"adjective": ["Na Aldzhe"],
+		"preferredVictoryType": "Neutral",
+		
+		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
+		"startIntroPart2": "Now… the age of civilization begins",
+		
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
+		
+		"neutralHello": "It is good to see you again.",
+		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt" : ["What are you trying to say?"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
+		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
+		
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "First Buff",
+		"uniques": [
+			"[+1 Gold, +1 Production] [in capital]",
+			"[+5]% [Production] [in all cities]",
+			"[+3]% [Culture]",
+			"[+5]% [Gold]",
+			"[+3]% [Science]",
+			"[+3]% [Happiness]",
+			"[+5]% [Faith]",
+			"[+3]% [Food]",
+			"[+1 Gold] from each Trade Route",
+			"[-5]% unhappiness from the number of cities",
+			"[3] Happiness from each type of luxury resource",
+			"[-10]% maintenance on road & railroads",
+			"[-10]% construction time for [All Road] improvements",
+			"[6] Unit Supply",
+			"[+5]% Strength",
+			"[+5]% XP gained from combat"
+		],
+		
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	}
+
+	{
+		"name": "CIV-1",
+		"leaderName": "An Haejo",
+		"adjective": ["No idea"],
+		"preferredVictoryType": "Neutral",
+		
+		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
+		"startIntroPart2": "Now… the age of civilization begins",
+		
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
+		
+		"neutralHello": "It is good to see you again.",
+		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt" : ["What are you trying to say?"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
+		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
+		
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "First Nerf",
+		"uniques": [
+			"[-5]% growth [in all cities]",
+			"[Gold] cost of purchasing items in cities [+10]%",
+			"[-5]% [Production] [in all cities]",
+			"[-3]% [Culture]",
+			"[-5]% [Gold]",
+			"[-3]% [Science]",
+			"[-3]% [Happiness]",
+			"[-5]% [Faith]",
+			"[-3]% [Food]",
+			"[+5]% unhappiness from the number of cities",
+			"[+10]% maintenance on road & railroads",
+			"[+5]% construction time for [All] improvements",
+			"[5] Unit Supply",
+			"[-5]% Strength",
+			"[-5]% XP gained from combat"
+		],
+		
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	}
+
+	{
+		"name": "CIV-2",
+		"leaderName": "HohohoQueen",
+		"adjective": ["The Queen"],
+		"preferredVictoryType": "Neutral",
+		
+		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
+		"startIntroPart2": "Now… the age of civilization begins",
+		
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
+		
+		"neutralHello": "It is good to see you again.",
+		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt" : ["What are you trying to say?"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
+		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
+		
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Second Nerf",
+		"uniques": [
+			"[-10]% growth [in all cities]",
+			"[Gold] cost of purchasing items in cities [+20]%",
+			"[-10]% [Production] [in all cities]",
+			"[-6]% [Culture]",
+			"[-10]% [Gold]",
+			"[-6]% [Science]",
+			"[-6]% [Happiness]",
+			"[-10]% [Faith]",
+			"[-6]% [Food]",
+			"[+10]% unhappiness from the number of cities",
+			"[+20]% maintenance on road & railroads",
+			"[+10]% construction time for [All] improvements",
+			"[4] Unit Supply",
+			"[-10]% Strength",
+			"[-10]% XP gained from combat"
+		],
+		
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	}
+
+	{
+		"name": "CIV-3",
+		"leaderName": "HahahaDevil",
+		"adjective": ["The Daemon King"],
+		"preferredVictoryType": "Neutral",
+		
+		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
+		"startIntroPart2": "Now… the age of civilization begins",
+		
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
+		
+		"neutralHello": "It is good to see you again.",
+		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt" : ["What are you trying to say?"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
+		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
+		
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Third Nerf",
+		"uniques": [
+			"[-15]% growth [in all cities]",
+			"[Gold] cost of purchasing items in cities [+30]%",
+			"[-15]% [Production] [in all cities]",
+			"[-9]% [Culture]",
+			"[-15]% [Gold]",
+			"[-9]% [Science]",
+			"[-9]% [Happiness]",
+			"[-15]% [Faith]",
+			"[-9]% [Food]",
+			"[+15]% unhappiness from the number of cities",
+			"[+30]% maintenance on road & railroads",
+			"[+15]% construction time for [All] improvements",
+			"[4] Unit Supply",
+			"[-15]% Strength",
+			"[-15]% XP gained from combat"
+		],
+		
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	}
+
+	{
 		"name": "CIV-4",
 		"leaderName": "Heoheoheoking",
 		"adjective": ["The King"],
@@ -152,6 +465,58 @@
 			"[3] Unit Supply",
 			"[-20]% Strength",
 			"[-20]% XP gained from combat"
+		],
+		
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
+	}
+
+	{
+		"name": "CIV-5",
+		"leaderName": "HeheheEmperor",
+		"adjective": ["The Emperor"],
+		"preferredVictoryType": "Neutral",
+		
+		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
+		"startIntroPart2": "Now… the age of civilization begins",
+		
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
+		
+		"neutralHello": "It is good to see you again.",
+		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt" : ["What are you trying to say?"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
+		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
+		
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Fifth Nerf",
+		"uniques": [
+			"[-25]% growth [in all cities]",
+			"[Gold] cost of purchasing items in cities [+50]%",
+			"[-25]% [Production] [in all cities]",
+			"[-15]% [Culture]",
+			"[-25]% [Gold]",
+			"[-15]% [Science]",
+			"[-15]% [Happiness]",
+			"[-25]% [Faith]",
+			"[-15]% [Food]",
+			"[+25]% unhappiness from the number of cities",
+			"[+50]% maintenance on road & railroads",
+			"[+25]% construction time for [All] improvements",
+			"[2] Unit Supply",
+			"[-25]% Strength",
+			"[-25]% XP gained from combat"
 		],
 		
 		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],

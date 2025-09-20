@@ -27,7 +27,7 @@
 		"tradeRequest": "Consider this offer. It could serve us well.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [211,47,47],
 		"uniqueName": "Fifth Buff",
 		"uniques": [
 			"[+25]% growth [in all cities]",
@@ -79,7 +79,7 @@
 		"tradeRequest": "Consider this offer. It could serve us well.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [245,124,0],
 		
 		"uniqueName": "Fourth Buff",
 		"uniques": [
@@ -132,7 +132,7 @@
 		"tradeRequest": "Consider this offer. It could serve us well.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [251,192,45],
 		"uniqueName": "Third Buff",
 		"uniques": [
 			"[+2 Gold, +2 Production] [in capital]",
@@ -185,7 +185,7 @@
 		"tradeRequest": "Consider this offer. It could serve us well.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [56,142,60],
 		"uniqueName": "Second Buff",
 		"uniques": [
 			"[+1 Gold, +1 Production] [in capital]",
@@ -238,7 +238,7 @@
 		"tradeRequest": "Consider this offer. It could serve us well.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [25,118,210],
 		"uniqueName": "First Buff",
 		"uniques": [
 			"[+1 Gold, +1 Production] [in capital]",
@@ -290,8 +290,8 @@
 		"afterPeace": "Very well. We shall end this war.",
 		"tradeRequest": "Consider this offer. It could serve us well.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [245,245,245],
+		"innerColor": [34,43,137],
 		"uniqueName": "First Nerf",
 		"uniques": [
 			"[-5]% growth [in all cities]",
@@ -343,7 +343,7 @@
 		"tradeRequest": "Consider this offer. It could serve us well.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [123,31,162],
 		"uniqueName": "Second Nerf",
 		"uniques": [
 			"[-10]% growth [in all cities]",
@@ -395,7 +395,7 @@
 		"tradeRequest": "Consider this offer. It could serve us well.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [109,76,65],
 		"uniqueName": "Third Nerf",
 		"uniques": [
 			"[-15]% growth [in all cities]",
@@ -447,7 +447,7 @@
 		"tradeRequest": "얘 그림그리렴!!",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [245,210,0],
 		"uniqueName": "Fourth Nerf",
 		"uniques": [
 			"[-20]% growth [in all cities]",
@@ -498,8 +498,8 @@
 		"afterPeace": "Very well. We shall end this war.",
 		"tradeRequest": "Consider this offer. It could serve us well.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"uniqueName": "Fifth Nerf",
 		"uniques": [
 			"[-25]% growth [in all cities]",
